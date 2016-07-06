@@ -1,0 +1,5 @@
+�\{W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"699";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-10-01 17:16:30";s:13:"post_date_gmt";s:19:"2015-10-01 17:16:30";s:12:"post_content";s:352:"Mang đến cho khách hàng sự hài lòng bằng tất cả cố gắng của toàn thể nhân viên công ty.
+
+Giữ uy tín với khách hàng, cam kết <a href="http://baobicongnghiep-ht.com"><strong>Màng co POF</strong></a> luôn luôn có sẵn với nhiều kích thước khác nhau.
+
+Giao hàng nhanh chóng với số lượng lớn.";s:10:"post_title";s:21:"Giá trị cốt lõi";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:15:"gia-tri-cot-loi";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-03-24 15:51:58";s:17:"post_modified_gmt";s:19:"2016-03-24 08:51:58";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"http://localhost/thanhloi/?p=699";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

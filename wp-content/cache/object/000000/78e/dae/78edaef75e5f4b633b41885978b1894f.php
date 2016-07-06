@@ -1,0 +1,1 @@
+‘\{W<?php exit; ?>a:1:{s:7:"content";a:4:{s:14:"akismet_result";a:1:{i:0;s:5:"false";}s:15:"akismet_history";a:1:{i:0;s:107:"a:3:{s:4:"time";d:1458376437.1134688854217529296875;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"hanguyen";}";}s:6:"rating";a:1:{i:0;s:1:"5";}s:8:"verified";a:1:{i:0;s:1:"0";}}}
